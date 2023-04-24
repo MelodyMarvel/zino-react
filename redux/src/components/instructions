@@ -1,0 +1,8 @@
+REDUX INSTRUCTIONS
+
+-- install redux - npm instull redux react-redux
+1. Create a store - where all your data would be stored
+2. Create a reducer and pass it as an arguement to the store
+3. Provide your store to the App.js component
+4. Use/access the store date from any component
+5. Dispatch action from the respective component
