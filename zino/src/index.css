@@ -1,0 +1,25 @@
+* {
+  background: #1f93ff;
+  color: #fff;
+}
+
+/* .user {
+  border: 1px solid black;
+  border-radius: 2px;
+  margin: 10px;
+  padding: 5px;
+} */
+.card {
+  border: 1px solid black;
+  border-radius: 2px;
+  margin: 10px;
+  padding: 5px;
+}
+.btn {
+  background-color: orangered;
+  color: #fff;
+  padding: 10px 15px;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  cursor: pointer;
+}
