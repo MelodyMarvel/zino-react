@@ -6,3 +6,11 @@ REDUX INSTRUCTIONS
 3. Provide your store to the App.js component
 4. Use/access the store date from any component
 5. Dispatch action from the respective component
+
+
+
+REDUX TOOLKIT INSTRUCTIONS
+--install redux toolkit - npm install @reduxjs/toolkit
+1. combine reducer and action into a slice
+2. replace createStore() with configureStore()
+3. Update useSelected() and useDispatch() on the component.
